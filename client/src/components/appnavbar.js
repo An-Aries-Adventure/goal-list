@@ -23,8 +23,7 @@ class AppNavbar extends Component{
     }
 
     render(){
-        return (
-
+        return(
             <div>
             <Navbar color="dark" dark expand="sm" className="mb-5">
                 <Container>
