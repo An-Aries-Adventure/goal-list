@@ -7,10 +7,6 @@ import {CSSTransition, TransitionGroup} from "react-transition-group";
 class GoalList extends Component {
  state = {
      goals: [ 
-         {id: 12345, name: "Apply to 10 jobs this week" },
-         {id: Math.random(), name: "Make 10 new connections this week" },
-         {id: Math.random(), name: "work on react project" },
-         {id: Math.random(), name: "set up mastermind" }
      ]
  };
 
